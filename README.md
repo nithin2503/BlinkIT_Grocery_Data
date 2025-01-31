@@ -14,12 +14,7 @@ This project involves creating interactive dashboards to analyze sales data over
 ### 2. Data Analysis
 - Used DAX functions, measures, and calculated columns to perform detailed analysis.
 
-### 3. Mertics
-1. The total number of sales transactions made is 1.20M Sales.
-2. The average customer rating out of 5 is 3.92.
-3. The total number of items available for sale is 9K.
-
-### 4. Insights:
+### 3. Insights:
 - Fruits and Vegetables has the highest sales of 178K.
 - Snack Foods has 173K sales is second highest.
 - In YOY chart 2020 (peak year) has sale of 295K.
